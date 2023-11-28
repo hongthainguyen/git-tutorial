@@ -6,3 +6,4 @@
  coriander
 # Instructions
 - Peel the avocado
+-put one avocado into a bowl
