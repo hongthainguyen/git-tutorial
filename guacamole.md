@@ -3,5 +3,6 @@
  salt
  pepper
  lime
+ coriander
 # Instructions
 
