@@ -2,5 +2,6 @@
  avocado
  salt
  pepper
+ lime
 # Instructions
 
